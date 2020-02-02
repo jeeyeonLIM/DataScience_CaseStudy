@@ -3,6 +3,7 @@
 <p align="center">
   <img width="250" height="350" src="https://ifh.cc/g/w5CqF.jpg">
 </p>
+- [참고](https://blog.naver.com/rubylime/221065603472)
 
 ## 공부하고 싶었던 점 
 - 비즈니스 의사결정을 위한 데이터 분석은 어떤 것일까 ? 이제까지는 데이터가 들어왔을 때 핸들링하고 모형 적합하기 바빴는데, 비즈니스 인사이트란 도대체 뭘까- 실무 응용을 하고 싶었다. 
