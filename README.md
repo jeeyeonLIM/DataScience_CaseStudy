@@ -1,7 +1,7 @@
 # Data Science Case Study (2020.01.06 ~)
   -  비즈니스 활용 사례로 배우는 데이터 분석: R - [분석용 소스 파일](http://www.hanbit.co.kr/support/supplement_list.html)
 <p align="center">
-  <img width="250" height="350" src="https://ifh.cc/g/w5CqF.jpg">
+  <img width="250" height="350" src="https://user-images.githubusercontent.com/45617225/91928480-280a0f00-ed17-11ea-9430-efd98f425abe.png">
 </p>
 - [참고](https://blog.naver.com/rubylime/221065603472)
 
